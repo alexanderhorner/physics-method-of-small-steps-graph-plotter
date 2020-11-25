@@ -4,4 +4,4 @@ Using the small-step-method, this script will calculate the distance and velocit
 
 The script takes step size (float), acceleration (float), and ammount of steps (integer) as input.
 
-![Plotted graph and terminal running my script.](https://i.postimg.cc/T1wJrg3K/Bildschirmfoto-2020-11-25-um-23-22-10.png)
+![Plotted graph and terminal running my script.](https://i.postimg.cc/jjtNHP8R/Bildschirmfoto-2020-11-25-um-23-22-10.png)
